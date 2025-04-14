@@ -1,6 +1,4 @@
-Il tuo codice HTML è ben scritto e segue una struttura chiara e pulita. Di seguito, ti riporto il file completo in un formato corretto per eventuali modifiche o consultazioni:
-
-```html name=studio-architettura.html
+`html name=studio-architettura.html
 <!DOCTYPE html>
 <html lang="it">
 <head>
