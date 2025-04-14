@@ -1,4 +1,3 @@
-`html name=studio-architettura.html
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -146,4 +145,3 @@
 
 </body>
 </html>
-```
